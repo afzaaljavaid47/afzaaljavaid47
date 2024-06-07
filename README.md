@@ -54,7 +54,7 @@ Skills: Website Development (Javascript, MERN Stack) / Machine Learning
 
 - 🔭 I’m currently working as a Consultant at Systems Limited, Developing Azure functions and Customizations for PartnerLinQ using .NET and Javascript 
 - 🌱 I’m currently learning new web engineering techniques like Next.js, Deep Learning and Machine Learning 
-- 📫 How to reach me: afzaaljavaid47@gmail.com 
+- 📫 How to reach me: contact@afzaaljavaid.com 
 - ⚡ Fun fact: Movies, Series 
 
 ###
