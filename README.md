@@ -2,7 +2,7 @@
 <h1 align="left">Hi there 👋 Afzaal Javaid</h1>
 
 ###
-![Consultant at Systems Limited and Web Developer Expert](https://github.com/afzaaljavaid47/afzaaljavaid47/blob/main/Afzaal%20Javaid%20Top%20Section.png)
+![Consultant at Systems Limited and Web Developer Expert](https://github.com/afzaaljavaid47/afzaaljavaid47/blob/main/My%20Portfolio%20Page.png)
 
 👋 Greetings! I'm Afzaal Javaid, a professional web designer and developer. My expertise lies in the field of JavaScript specially in MERN stack development. I also worked on Python, .NET, Azure Functions. With a robust background in Web Designing, Development and machine learning methodologies, I am dedicated to advancing knowledge and fostering innovation in these transformative fields. Explore my GitHub repository to witness firsthand my commitment to excellence and my contributions to the evolution of website and machine learning solutions.
 
